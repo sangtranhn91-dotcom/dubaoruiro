@@ -105,7 +105,7 @@ with st.sidebar:
 # ==========================================
 # THÀNH PHẦN 2: HEADER — VÙNG ĐỊNH HƯỚNG
 # ==========================================
-st.title("🛡️ Hệ thống Phát Hiện Gian Lận & Dự Báo Rủi Ro Tín Dụng")
+st.title("🛡️ Hệ thống Phát Hiện Gian Lận & Dự Báo Rủi Ro Tín Dụng 🛡️")
 st.caption(
     "Ứng dụng hỗ trợ phân tích định lượng dữ liệu khách hàng, dự báo tự động trạng thái rủi ro vỡ nợ (Default) "
     "dựa trên nền tảng Học máy mô hình hóa từ dữ liệu lịch sử tài chính doanh nghiệp/cá nhân."
